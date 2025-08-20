@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+langchain-groq
+langchain-core
+sentence-transformers
+numpy
+faiss-cpu
+python-multipart
+requests 
