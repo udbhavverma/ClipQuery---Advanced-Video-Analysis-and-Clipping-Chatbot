@@ -38,7 +38,7 @@ ClipQuery is an advanced AI-powered video analysis system that combines RAG (Ret
 | **Storage** | Google Drive API | Cloud file management |
 | **Video Processing** | FFmpeg | Video manipulation & concatenation |
 | **Transcription** | Whisper | Speech-to-text conversion |
-| **Vector Database** | FAISS | Efficient similarity search |
+| **Vector Database** | ChromaDB | Efficient similarity search |
 
 ---
 
